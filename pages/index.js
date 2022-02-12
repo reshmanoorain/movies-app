@@ -7,7 +7,7 @@ import {Search} from "@mui/icons-material";
 import Link from "next/link";
 
 
-export default function index(props) {
+export default function Index(props) {
 const [data, setData] = useState([]);
 const [searchParam, setSearchParam] = useState("")
 const [Visible, setVisible] = useState(5);
