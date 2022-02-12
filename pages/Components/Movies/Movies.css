@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.title{
+    position: absolute;
+    padding-top: 13px;
+    font-family: Abel, sans-serif;
+    padding-left: 15px;
+    font-size: 1.8rem;
+   
+ } 
+
+ .card{
+     display: flex;
+ }
+
+ @media screen and (min-width: 1024px){
+     .title {
+         padding-top: 17px;
+     }
+ }

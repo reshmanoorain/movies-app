@@ -1,0 +1,39 @@
+ 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ } 
+
+  
+ 
+ .cards{ 
+   display:inline-block;
+
+  } 
+
+ .cards1 {
+     width: 325px;
+     height: auto;
+     margin: auto;
+     object-fit: cover;
+     border-radius: 20px;
+     transition: all 0.3s easw 0s;
+     box-shadow: rgb(0 0 0 / 27%) 10px 10px 33px -4px;
+     display: inline-block;
+     margin: 20px;
+ }
+
+ .cards1:hover{
+     filter: blur(0px);
+     transform: scale(1.1);
+     opacity: 1;
+ } 
+
+ @media screen and (min-width:1024px) {
+     .cards1{
+         width: 200px;
+
+ }
+     
+ }
