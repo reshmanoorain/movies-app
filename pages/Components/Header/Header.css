@@ -93,7 +93,7 @@ div {
 .back_img{
     width: 100%;
     /* position: relative; */
-    height: 1150px;
+    height: 1180px;
     object-fit: cover;
     overflow: hidden;
     /* top: 120px; */
@@ -127,7 +127,7 @@ div {
 
 .deets {
     width: 80vw;
-    height: 60vh;
+    height: 64vh;
     background-color: black;
     opacity: 0.6;
     border-radius: 0 0 20px 20px;

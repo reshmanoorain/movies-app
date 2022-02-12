@@ -54,9 +54,9 @@ a {
 
 
 .btn{
-  font-size: 3rem;
+  font-size: 4rem;
   margin-top: 3px;
-  margin-left: 28px;
+  margin-left: 9px;
   color: white;
 
 }
@@ -73,7 +73,7 @@ a {
   outline: none;
   position: absolute;
   color: white;
-  left: 20px;
+  left: 2px;
   margin: 4px 0px;
   padding: 0px 0px 0px 90px;
 }
