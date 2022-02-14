@@ -112,7 +112,7 @@ a {
 
 @media screen and (min-width: 1024px){
   .btn {
-      font-size: 4vmin;
+      font-size: 6vmin;
   }
 
   .input{
