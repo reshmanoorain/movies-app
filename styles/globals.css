@@ -54,9 +54,9 @@ a {
 
 
 .btn{
-  font-size: 8rem;
+  font-size: 11vmin;
   margin-top: 3px;
-  margin-left: 9px;
+  margin-left: 2px;
   color: white;
 
 }
@@ -73,9 +73,9 @@ a {
   outline: none;
   position: absolute;
   color: white;
-  left: 2px;
+  left: 1px;
   margin: 4px 0px;
-  padding: 0px 0px 0px 90px;
+  padding: 0px 0px 0px 70px;
 }
 
 
@@ -92,7 +92,7 @@ a {
 
 @media screen and (min-width: 768px) {
   .btn{
-      font-size: 3rem;
+      font-size: 6vmin;
       margin-top: 2px;
       margin-left: 38px;
       color: white;
@@ -102,7 +102,7 @@ a {
   .input{
       font-size: 2.3rem;
       margin-top: 3px;
-      margin-left: 30px;
+      margin-left: 50px;
       color: white;
   
   }
@@ -112,7 +112,7 @@ a {
 
 @media screen and (min-width: 1024px){
   .btn {
-      font-size: 3rem;
+      font-size: 4vmin;
   }
 
   .input{

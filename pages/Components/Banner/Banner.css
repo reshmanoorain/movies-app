@@ -32,7 +32,7 @@ div {
 
 .img_h{
     position: absolute;
-    top: 35vh;
+    top: 28vh;
     left:5vw;
     font-family: Abel,sans-serif;
     color: white;
@@ -44,8 +44,8 @@ div {
 
 .img_p{
     position: absolute;
-    top: 53vh;
-    left:4vw;
+    top: 40vh;
+    left:5vw;
     font-size: 18px;
     line-height: 24px;
     color: white;
